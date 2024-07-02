@@ -58,7 +58,7 @@ chat_modes:
   - mode: 'educational_tutor'
     description: 'Provides educational tutoring'
 
-##Contributing
+## Contributing
 - We welcome contributions to enhance the project! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
       - Fork the repository.
       - Create a new branch: git checkout -b feature-branch-name
